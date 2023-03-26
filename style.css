@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    background-color: antiquewhite;
+    background-color: aquamarine;
   }
   
   .container {
@@ -15,7 +15,7 @@
     height: 445px;
     max-width: 460px;
     border-radius: 4px;
-    background-color: gray;
+    background-color: cadetblue;
   }
   
   .output {
